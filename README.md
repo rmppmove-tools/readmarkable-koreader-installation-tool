@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v0.1.4-dev
+# READMarkable KOReader Installer v0.1.5-dev
 
 This desktop application installs **KOReader** and the **XOVI Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
@@ -10,9 +10,9 @@ This desktop application installs **KOReader** and the **XOVI Triple-tap AppLoad
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
-Windows:  
+Windows:  https://drive.google.com/file/d/16NYPVXNkEYbs-KSSb4KpsKZZen5mKD3U/view?usp=sharing
 
-MacOS:    h
+MacOS:    https://drive.google.com/file/d/1zEK1WqTN5s6XUG9yrbcWHzRrCW0MP7qe/view?usp=sharing
 
 ---
 
