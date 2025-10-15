@@ -58,14 +58,12 @@ MacOS:    h
 ## 6. **Uninstall**
    - Click **Uninstall** to remove **XOVI**, **AppLoad**, **KOReader**, patches, and related files, then reload services.
 
----
 
 ## 7.  Activation
 
 - The app uses activation tied to your **Machine ID**.
 - Default **Beta software testing duration** is **30 days**.
 
----
 
 ## 8. Triple‑tap power button AppLoad launcher
 
