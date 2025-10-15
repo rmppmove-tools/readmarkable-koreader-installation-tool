@@ -30,22 +30,22 @@ MacOS:    h
 
 ## 3. Using the Software
 
-     3a. **Start the application**
+3a. **Start the application**
 
-     3b. **Pick your device model**
-          - **reMarkable™ Paper Pro Move** (ARM64, 2025)
-          - **reMarkable™ Paper Pro** (ARM64, 2024)
-          - **reMarkable™ 2** (ARM32, 2020)
+3b. **Pick your device model**
+      - **reMarkable™ Paper Pro Move** (ARM64, 2025)
+      - **reMarkable™ Paper Pro** (ARM64, 2024)
+      - **reMarkable™ 2** (ARM32, 2020)
 
-     3c. **Enter connection info**
-          - **Device IP** (default `10.11.99.1` when connected by USB Cable).
-          - **SSH password** (shown on the device in *Settings → Help → Copyrights → General information*).
+3c. **Enter connection info**
+      - **Device IP** (default `10.11.99.1` when connected by USB Cable).
+      - **SSH password** (shown on the device in *Settings → Help → Copyrights → General information*).
 
-     3d. **Choose Installation Type**
-          - **Full**: XOVI + AppLoad + KOReader (**HIGHLY RECOMMENDED)
-          - **Launcher only**: XOVI + AppLoad (no KOReader changes)
-          - **Stage 1 only**: Base setup (through hashtable)
-          - **Stage 2 only**: KOReader installation
+3d. **Choose Installation Type**
+      - **Full**: XOVI + AppLoad + KOReader (**HIGHLY RECOMMENDED)
+      - **Launcher only**: XOVI + AppLoad (no KOReader changes)
+      - **Stage 1 only**: Base setup (through hashtable)
+      - **Stage 2 only**: KOReader installation
 
 ## 4. **Options**
    - **Create system backup** (**HIGHLY RECOMMENDED)
