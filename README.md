@@ -26,7 +26,7 @@ MacOS:    h
 - Optional **post‑install patches** for **Remarkable Paper Pro Move** from `./patch/` or `./patches/` (if present).
 - Pure‑Python SSH/SCP — **no external ssh/scp/sshpass binaries** required.
 
----
+
 
 ## 3. Using the Software
 
