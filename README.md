@@ -1,4 +1,4 @@
-# User Guide — READMarkable KOReader Installer v0.1.4-dev
+# READMarkable KOReader Installer v0.1.4-dev
 
 This desktop application installs **KOReader** and the **XOVI Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
@@ -6,7 +6,7 @@ This desktop application installs **KOReader** and the **XOVI Triple-tap AppLoad
 
 ---
 
-## 1. Using the Software
+## 1. Downloading the Software
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
@@ -29,7 +29,7 @@ MacOS:    h
 ---
 
 
-## 2. **Directory layout** (KOReader files you provide locally):
+## 3. **Directory layout** (KOReader files you provide locally):
 ```
 ./nightly/
     koreader-remarkable-aarch64-<...>.zip      # used for reMarkable™ Paper Pro Move
@@ -39,29 +39,28 @@ MacOS:    h
 ```
 
 
-## 3. Using the Software
+## 4. Using the Software
 
-1. **Start the application**
+     4a. **Start the application**
 
-2. **Pick your device model**
-   - **reMarkable™ Paper Pro Move** (ARM64, 2025)
-   - **reMarkable™ Paper Pro** (ARM64, 2024)
-   - **reMarkable™ 2** (ARM32, 2020)
+     4b. **Pick your device model**
+          - **reMarkable™ Paper Pro Move** (ARM64, 2025)
+          - **reMarkable™ Paper Pro** (ARM64, 2024)
+          - **reMarkable™ 2** (ARM32, 2020)
 
-3. **Enter connection info**
-   - **Device IP** (default `10.11.99.1` when connected by USB Cable).
-   - **SSH password** (shown on the device in *Settings → Help → Copyrights → General information*).
+     4c. **Enter connection info**
+          - **Device IP** (default `10.11.99.1` when connected by USB Cable).
+          - **SSH password** (shown on the device in *Settings → Help → Copyrights → General information*).
 
-4. **Choose Installation Type**
-   - **Full**: XOVI + AppLoad + KOReader (**HIGHLY RECOMMENDED)
-   - **Launcher only**: XOVI + AppLoad (no KOReader changes)
-   - **Stage 1 only**: Base setup (through hashtable)
-   - **Stage 2 only**: KOReader installation
+     4d. **Choose Installation Type**
+          - **Full**: XOVI + AppLoad + KOReader (**HIGHLY RECOMMENDED)
+          - **Launcher only**: XOVI + AppLoad (no KOReader changes)
+          - **Stage 1 only**: Base setup (through hashtable)
+          - **Stage 2 only**: KOReader installation
 
 5. **Options**
    - **Create system backup** (**HIGHLY RECOMMENDED)
    - **Enable Triple‑tap launcher** (**HIGHLY RECOMMENDED)
-   - (reMarkable™ Paper Pro Move) **Apply patches** if you provide a `./patch/` or `./patches/` folder (see §6).
 
 6. **Install**
    - Click **Install** and watch the live log/progress.
