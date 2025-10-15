@@ -28,75 +28,52 @@ MacOS:    h
 
 ---
 
+## 3. Using the Software
 
-## 3. **Directory layout** (KOReader files you provide locally):
-```
-./nightly/
-    koreader-remarkable-aarch64-<...>.zip      # used for reMarkable™ Paper Pro Move
-./stable/
-    koreader-remarkable-aarch64-<...>.zip      # used for reMarkable™ Paper Pro (ARM64)
-    koreader-remarkable-<...>.zip              # used for reMarkable™ 2 (ARM32)
-```
+     3a. **Start the application**
 
-
-## 4. Using the Software
-
-     4a. **Start the application**
-
-     4b. **Pick your device model**
+     3b. **Pick your device model**
           - **reMarkable™ Paper Pro Move** (ARM64, 2025)
           - **reMarkable™ Paper Pro** (ARM64, 2024)
           - **reMarkable™ 2** (ARM32, 2020)
 
-     4c. **Enter connection info**
+     3c. **Enter connection info**
           - **Device IP** (default `10.11.99.1` when connected by USB Cable).
           - **SSH password** (shown on the device in *Settings → Help → Copyrights → General information*).
 
-     4d. **Choose Installation Type**
+     3d. **Choose Installation Type**
           - **Full**: XOVI + AppLoad + KOReader (**HIGHLY RECOMMENDED)
           - **Launcher only**: XOVI + AppLoad (no KOReader changes)
           - **Stage 1 only**: Base setup (through hashtable)
           - **Stage 2 only**: KOReader installation
 
-5. **Options**
+## 4. **Options**
    - **Create system backup** (**HIGHLY RECOMMENDED)
    - **Enable Triple‑tap launcher** (**HIGHLY RECOMMENDED)
 
-6. **Install**
+## 5. **Install**
    - Click **Install** and watch the live log/progress.
    - When finished, KOReader and/or the launcher will be available on your device.
 
-7. **Uninstall**
+## 6. **Uninstall**
    - Click **Uninstall** to remove **XOVI**, **AppLoad**, **KOReader**, patches, and related files, then reload services.
 
 ---
 
-## 4) Activation
+## 7.  Activation
 
 - The app uses activation tied to your **Machine ID**.
 - Default **Beta software testing duration** is **30 days**.
 
-
 ---
 
-## 5) Device‑specific KOReader files (local)
-
-The app never downloads KOReader. It selects the local zip based on the device model you choose:
-
-- **remarkable-paper-pro-move** → `./nightly/...aarch64...zip`
-- **remarkable-paper-pro** → `./stable/...aarch64...zip`
-- **remarkable-2** → `./stable/...arm32...zip`
-
-
----
-
-## 6) Triple‑tap power button AppLoad launcher
+## 8. Triple‑tap power button AppLoad launcher
 
 Enabling this option installs the **xovi‑tripletap** service on the device. After install, **triple‑press** the power button within ~3 seconds to launch XOVI AppLoad automatically.
 
 ---
 
-## 7) Tips & Troubleshooting
+## 9. Tips & Troubleshooting
 
 - **“Cannot connect via SSH”** → Confirm the device IP and SSH password, and that the device is reachable over USB or Wi‑Fi.
 - **“KOReader file not found / too small”** → Verify your `./nightly/` or `./stable/` file exists and is a valid KOReader zip.
@@ -106,7 +83,7 @@ Enabling this option installs the **xovi‑tripletap** service on the device. Af
 
 ---
 
-## 8) Support
+## 10. Support
 
 - For activation assistance, use the instructions shown in the application's activation dialog.
 - For general help, feel free to open an issue or contact the developer at: info@rmppmove-tools.org
