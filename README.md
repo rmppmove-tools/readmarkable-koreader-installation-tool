@@ -69,7 +69,6 @@ MacOS:    h
 
 Enabling this option installs the **xovi‑tripletap** service on the device. After install, **triple‑press** the power button within ~3 seconds to launch XOVI AppLoad automatically.
 
----
 
 ## 9. Tips & Troubleshooting
 
@@ -79,7 +78,6 @@ Enabling this option installs the **xovi‑tripletap** service on the device. Af
 - **Triple‑tap not working** → Check the `xovi-tripletap` service status on the device (`systemctl status xovi-tripletap`).
 - **Uninstall didn’t remove everything** → Run **Uninstall** again; the app stops services, removes XOVI/AppLoad/KOReader/shims/tripletap, and reloads systemd.
 
----
 
 ## 10. Support
 
