@@ -1,7 +1,7 @@
 # READMarkable KOReader Installer v0.1.8-dev LIMITED BETA TESTING PHASE
 
 **• NOTICE: THIS IS BETA TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT - SOFTWARE BUGS MAY BE PRESENT
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     USE FOR TESTING PURPOSES ONLY**
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$USE FOR TESTING PURPOSES ONLY**
 
 This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
