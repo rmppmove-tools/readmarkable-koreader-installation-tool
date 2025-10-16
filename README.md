@@ -14,9 +14,9 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
-Windows:  https://github.com/rmppmove-tools/readmarkable-koreader-installation-tool
+Windows:  https://drive.google.com/file/d/1RMySr5KrCKPBRfPsPZ0NzMXzxbxhUVr8/view?usp=sharing
 
-MacOS:    https://github.com/rmppmove-tools/readmarkable-koreader-installation-tool
+MacOS:    https://drive.google.com/file/d/1FJ0Qv68w-IE_9oVACxwzvxkeVvW7Qspu/view?usp=sharing
 
 ---
 
