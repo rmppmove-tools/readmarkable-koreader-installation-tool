@@ -24,8 +24,6 @@ MacOS:    https://drive.google.com/file/d/1NVaDkgTbtrNXnrEEeWId5MDNU7hOIkSe/view
 - Automatic **system backup** before changes (optional).
 - **One‑click Uninstall** to restore stock state (removes XOVI/AppLoad/KOReader).
 - Optional **post‑install patches** for **Remarkable Paper Pro Move** from `./patch/` or `./patches/` (if present).
-- Pure‑Python SSH/SCP — **no external ssh/scp/sshpass binaries** required.
-
 
 
 ## 3. Using the Software
