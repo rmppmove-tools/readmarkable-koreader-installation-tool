@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v0.1.5-dev
+# READMarkable KOReader Installer v0.1.6-dev
 
 This desktop application installs **KOReader** and the **XOVI Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
@@ -10,9 +10,9 @@ This desktop application installs **KOReader** and the **XOVI Triple-tap AppLoad
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
-Windows:  https://drive.google.com/file/d/16NYPVXNkEYbs-KSSb4KpsKZZen5mKD3U/view?usp=sharing
+Windows:  https://drive.google.com/file/d/1D71u0fmIge-DyV6iMgb8DsbwQNSbNBRK/view?usp=sharing
 
-MacOS:    https://drive.google.com/file/d/1zEK1WqTN5s6XUG9yrbcWHzRrCW0MP7qe/view?usp=sharing
+MacOS:    https://drive.google.com/file/d/1NVaDkgTbtrNXnrEEeWId5MDNU7hOIkSe/view?usp=sharing
 
 ---
 
@@ -62,7 +62,7 @@ MacOS:    https://drive.google.com/file/d/1zEK1WqTN5s6XUG9yrbcWHzRrCW0MP7qe/view
 ## 7.  Activation
 
 - The app uses activation tied to your **Machine ID**.
-- Default **Beta software testing duration** is **30 days**.
+- Default **Beta software testing duration** is **14 days**.
 
 
 ## 8. Triple‑tap power button AppLoad launcher
