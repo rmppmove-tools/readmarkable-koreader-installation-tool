@@ -21,6 +21,14 @@ Windows:  https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
 
 MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkable-koreader-installer-macos-arm64.zip
 
+**\*\*Attention MacOS Users: After downloading and unzipping the application file open a Terminal window and execute the following commands:**
+
+**cd /Users/<your_user_name>/Downloads/readmarkable-koreader-installer-macos-arm64**
+**chmod +x readmarkable-koreader-installer-macos-arm64.app**
+**chmod +x readmarkable-koreader-installer-macos-arm64**
+
+**After doing that you should be able to double-click on either of those two files and the application should launch without issue.**
+
 ---
 
 ## 2. What this software application does
