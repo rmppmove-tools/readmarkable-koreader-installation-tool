@@ -12,6 +12,8 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## 1. Downloading the Software
 
+## Note: Your reMarkable™ device will first need to be switched to Developer Mode befor you can use this installation tool. Please visit the following link on reMarkable™'s website for addition information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
+
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
 Windows:  https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkable-koreader-installer-windows-amd64.zip
