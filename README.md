@@ -79,8 +79,6 @@ Enabling this option installs the **tripletap** service on the device. After ins
 - **“Cannot connect via SSH”** → Confirm the device IP and SSH password, and that the device is reachable over USB or Wi‑Fi.
 - **“KOReader file not found / too small”** → Verify your `./nightly/` or `./stable/` file exists and is a valid KOReader zip.
 - **Patches not applied** (reMarkable™ Paper Pro Move) → Ensure your `./patch/` or `./patches/` tree exists and contains actual files.
-- **Triple‑tap not working** → Check the `xovi-tripletap` service status on the device (`systemctl status xovi-tripletap`).
-- **Uninstall didn’t remove everything** → Run **Uninstall** again; the app stops services, removes XOVI/AppLoad/KOReader/shims/tripletap, and reloads systemd.
 
 
 ## 10. Contact / Support
