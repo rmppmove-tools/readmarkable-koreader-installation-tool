@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v0.1.8-dev 
+# READMarkable KOReader Installer v0.1.9-dev 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LIMITED BETA TESTING PHASE
 
 **• NOTICE: THIS IS BETA TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT - SOFTWARE BUGS MAY BE PRESENT
