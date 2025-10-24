@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v0.1.9-dev 
+# READMarkable KOReader Installer v0.1.10-dev 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LIMITED BETA TESTING PHASE
 
 **• NOTICE: THIS IS BETA TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT - SOFTWARE BUGS MAY BE PRESENT
@@ -40,7 +40,9 @@ MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
 - Installs **Triple‑tap power button** shortcut to launch the UI Sidebar AppLoad.
 - Automatic **system backup** before changes (optional).
 - **One‑click Uninstall** to restore stock state (removes UI Sidebar AppLoad/KOReader).
-- Optional **post‑install patches** for **Remarkable Paper Pro Move** from `./patch/` or `./patches/` (if present).
+- **Post‑install patches** for **All Devices** from `./patch/` or `./patches/` (if present).
+-  **system backup** before changes (optional).
+- Performs **Device Post Software-Update Maintenance Tasks** to re-enable KOReader, AppLoad and Tripletap on the device after a software update has occurred.
 
 
 ## 3. Using the Software
@@ -61,37 +63,41 @@ MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
    - **Launcher Only Installation**: UI Sidebar Launcher Only (UI Sidebar AppLoad)
 
 
-## 4. **Options**
+## 4. **Installation Options**
    - **Create system backup** (**HIGHLY RECOMMENDED**)
    - **Enable Triple‑tap launcher** (**HIGHLY RECOMMENDED**)
 
-## 5. **Install**
+## 5. **KOReader / AppLoad / Tripletap Device Post Software-Update Maintenance Tasks**
+   - **Select this option if you have performed a device software update**
+   - **Re-enables KOReader, AppLoad and Tripletap on the device after a software update has occurred**
+
+## 6. **Install**
    - Click **Install** and watch the live log/progress.
    - When finished, KOReader and/or the launcher will be available on your device.
 
-## 6. **Uninstall**
+## 7. **Uninstall**
    - Click **Uninstall KOReader** to remove **UI Sidebar AppLoad**, **KOReader**, **Triple-tap launcher** patches, and related files, then reload services.
 
 
-## 7.  Activation
+## 8.  Activation
 
 - For Beta Software Testing Purposes This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
 - Default **Beta software testing duration** is **14 days**.
 
 
-## 8. Triple‑tap power button AppLoad launcher
+## 9. Triple‑tap power button AppLoad launcher
 
 Enabling this option installs the **tripletap** service on the device. After install, **triple‑press** the power button within ~3 seconds to start the UI Sidebar Launcher automatically.
 
 
-## 9. Tips & Troubleshooting
+## 10. Tips & Troubleshooting
 
 - **“Cannot connect via SSH”** → Confirm the device IP and SSH password, and that the device is reachable over USB or Wi‑Fi.
 - **“KOReader file not found / too small”** → Verify your `./nightly/` or `./stable/` file exists and is a valid KOReader zip.
 - **Patches not applied** (reMarkable™ Paper Pro Move) → Ensure your `./patch/` or `./patches/` tree exists and contains actual files.
 
 
-## 10. Contact / Support
+## 11. Contact / Support
 
 - For activation assistance, use the instructions shown in the application's activation dialog.
 - For general help, feel free to open an issue or contact the developer at: **info@rmppmove-tools.org**
