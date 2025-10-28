@@ -1,5 +1,5 @@
 # READMarkable KOReader Installer v0.1.11-rc1 
-# &nbsp; &nbsp; &nbsp; LIMITED RELEASE CANDIDATE TESTING PHASE
+# &nbsp; LIMITED RELEASE CANDIDATE TESTING PHASE
 
 **• NOTICE: THIS IS RELEASE CANDIDATE TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT - SOFTWARE BUGS MAY BE PRESENT
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USE FOR TESTING PURPOSES ONLY**
