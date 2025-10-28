@@ -1,7 +1,7 @@
-# READMarkable KOReader Installer v0.1.10-dev 
+# READMarkable KOReader Installer v0.1.11-rc1 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LIMITED BETA TESTING PHASE
 
-**• NOTICE: THIS IS BETA TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT - SOFTWARE BUGS MAY BE PRESENT
+**• NOTICE: THIS IS RELEASE CANDIDATE TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT - SOFTWARE BUGS MAY BE PRESENT
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USE FOR TESTING PURPOSES ONLY**
 
 This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
@@ -12,8 +12,9 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## 1. Downloading the Software
 
-## Note: Your reMarkable™ device will first need to be switched to Developer Mode before you can use this installation tool. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
+## Note: Your reMarkable™ device (RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
 
+## IMPORTANT - STARTING WITH THIS RELEASE - DURING INSTALLATION YOU MAY BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE WATCH FOR A NOTIFICATION MESSAGE WINDOW
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
