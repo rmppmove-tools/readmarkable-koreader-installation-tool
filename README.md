@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v0.1.11-rc1 
+# READMarkable KOReader Installer v0.1.12-rc2 
 # LIMITED RELEASE CANDIDATE TESTING PHASE
 
 **• NOTICE: THIS IS RELEASE CANDIDATE TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT
@@ -14,7 +14,7 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## Note: Your reMarkable™ device (RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
 
-## IMPORTANT - STARTING WITH THIS RELEASE - DURING INSTALLATION YOU MAY BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE WATCH FOR A NOTIFICATION MESSAGE WINDOW
+## IMPORTANT - DURING INSTALLATION YOU MAY BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE WATCH FOR A NOTIFICATION MESSAGE WINDOW
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
