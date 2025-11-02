@@ -61,6 +61,7 @@ MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
 
 - **Choose Installation Type**
    - **Full Installation**: (UI Sidebar AppLoad + KOReader) **HIGHLY RECOMMENDED**
+   - **Maintenance Mode**: Re-enables KOReader, AppLoad and Tripletap on the device after a software update has occurred
    
 
 
