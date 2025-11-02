@@ -83,8 +83,8 @@ MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
 
 ## 8.  Activation
 
-- For Beta Software Testing Purposes This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
-- Default **Beta software testing duration** is **14 days**.
+- For Release Candidate Software Testing Purposes This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
+- Default **Release Candidate software testing duration** is **14 days**.
 
 
 ## 9. Triple‑tap power button AppLoad launcher
