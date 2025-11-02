@@ -61,7 +61,7 @@ MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
 
 - **Choose Installation Type**
    - **Full Installation**: (UI Sidebar AppLoad + KOReader) **HIGHLY RECOMMENDED**
-   - **Launcher Only Installation**: UI Sidebar Launcher Only (UI Sidebar AppLoad)
+   
 
 
 ## 4. **Installation Options**
