@@ -1,8 +1,6 @@
-# READMarkable KOReader Installer v0.1.12-rc2 
-# LIMITED RELEASE CANDIDATE TESTING PHASE
+# READMarkable KOReader Installer v25.11.14
 
-**• NOTICE: THIS IS RELEASE CANDIDATE TESTING SOFTWARE UNDER ACTIVE DEVELOPMENT
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SOFTWARE BUGS MAY BE PRESENT - USE FOR TESTING PURPOSES ONLY**
+# readmarkable.org
 
 This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
@@ -16,11 +14,9 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## IMPORTANT - DURING INSTALLATION YOU MAY BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE WATCH FOR A NOTIFICATION MESSAGE WINDOW
 
-Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
+Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the READMarkable KOReader Installer landing page:
 
-Windows:  https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkable-koreader-installer-windows-amd64.zip
-
-MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkable-koreader-installer-macos-arm64.zip
+# readmarkable.org
 
 **\*\*Attention MacOS Users: After downloading and unzipping the application file open a Terminal window and execute the following commands:**
 
@@ -83,8 +79,9 @@ MacOS:    https://rmppmovetools.blob.core.windows.net/rmppmove-tools/readmarkabl
 
 ## 8.  Activation
 
-- For Release Candidate Software Testing Purposes This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
-- Default **Release Candidate software testing duration** is **14 days**.
+- This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
+- **Activation Code License Period** is **90 days**. After license expiration please
+visit: **readmarkable.org** to generate a new license activation code.
 
 
 ## 9. Triple‑tap power button AppLoad launcher
