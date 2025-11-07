@@ -1,6 +1,6 @@
 # READMarkable KOReader Installer v25.11.14
 
-# readmarkable.org
+## http://readmarkable.org
 
 This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
@@ -16,7 +16,7 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the READMarkable KOReader Installer landing page:
 
-# readmarkable.org
+## http://readmarkable.org
 
 **\*\*Attention MacOS Users: After downloading and unzipping the application file open a Terminal window and execute the following commands:**
 
