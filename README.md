@@ -1,8 +1,8 @@
-# READMarkable KOReader Installer v25.11.14
+# READMarkable KOReader Installer v25.12.15
 
 ## http://readmarkable.org
 
-This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro**, and **reMarkable™ 2** devices using an intuitive UI over SSH.
+This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move** and **reMarkable™ Paper Pro** devices using an intuitive UI over SSH.
 
 **Notice:** *reMarkable™ is a trademark of reMarkable AS. This software and documentation are neither endorsed nor sponsored by, nor affiliated with, reMarkable AS.*
 
@@ -12,7 +12,9 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## Note: Your reMarkable™ device (RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
 
-## IMPORTANT - DURING INSTALLATION YOU MAY BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE WATCH FOR A NOTIFICATION MESSAGE WINDOW
+## Note: BETA VERSIONS of reMarkable OS have NOT been tested or certified to work with this tool. You are strongly encouraged to use only STABLE VERSIONS of reMarkable OS 
+
+## IMPORTANT - DURING BOTH THE FULL INSTALLATION MODE (AT STEP 14) AND THE MAINTENANCE MODE (AT STEP 2) YOU WILL BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE CAREFULLY WATCH FOR A NOTIFICATION MESSAGE WINDOW AT THESE RESPECTIVE STEPS
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the READMarkable KOReader Installer landing page:
 
@@ -49,7 +51,7 @@ Download the correct .zip file version for your specific machine operating syste
 - **Pick your device model**
    - **reMarkable™ Paper Pro Move** (ARM64, 2025)
    - **reMarkable™ Paper Pro** (ARM64, 2024)
-   - **reMarkable™ 2** (ARM32, 2020)
+  
 
 - **Enter connection info**
    - **Device IP** (default `10.11.99.1` when connected by USB Cable).
@@ -80,8 +82,7 @@ Download the correct .zip file version for your specific machine operating syste
 ## 8.  Activation
 
 - This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
-- **Activation Code License Period** is **90 days**. After license expiration please
-visit: **readmarkable.org** to generate a new license activation code.
+- **Activation Code License Period** is **90 days**. After license expiration or after new version releases please visit: **readmarkable.org** to generate a new license activation code. Note: Generated activation codes will only work with the current released version of the software and will NOT work with previous versions.
 
 
 ## 9. Triple‑tap power button AppLoad launcher
