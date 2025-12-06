@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v25.12.15
+# READMarkable KOReader Installer v26.01.16
 
 ## http://readmarkable.org
 
@@ -12,7 +12,9 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## Note: Your reMarkable™ device (RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
 
-## Note: BETA VERSIONS of reMarkable OS have NOT been tested or certified to work with this tool. You are strongly encouraged to use only STABLE VERSIONS of reMarkable OS 
+## NOTE: BETA VERSIONS of reMarkable OS have NOT been tested or certified to work with this tool. You are strongly encouraged to use only STABLE VERSIONS of reMarkable OS 
+
+## IMPORTANT - IF YOUR DEVICE HAS JUST GONE THROUGH A **MAJOR** reMarkable OS VERSION UPDATE (EXAMPLE: UPDATING FROM 3.23.x.x TO 3.24.x.x - NOTE THE CHANGE 3.23 TO 3.24) THEN YOU SHOULD NOT USE MAINTENCE MODE. INSTEAD, USE THE INSTALLER TOOL TO FIRST UNINSTALL KOREADER THEN PERFORM A FULL INSTALLATION OF KOREADER. THIS ONLY APPLIES WHEN A **MAJOR** VERSION UPDATE OCCURS. FOR **MINOR** VERSION UPDATES (EXAMPLE: EXAMPLE 3.24.0.129 TO 3.24.0.132 - NOTE THE MAJOR VERSION NUMBER (3.24) REMAINS THE SAME), THEN YOU SHOULD USE MAINTENANCE MODE TO RE-ENABLE THE APPLOAD AND TRIPLETAP SERVICES ON YOUR DEVICE
 
 ## IMPORTANT - DURING BOTH THE FULL INSTALLATION MODE (AT STEP 14) AND THE MAINTENANCE MODE (AT STEP 2) YOU WILL BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE CAREFULLY WATCH FOR A NOTIFICATION MESSAGE WINDOW AT THESE RESPECTIVE STEPS
 
@@ -20,15 +22,13 @@ Download the correct .zip file version for your specific machine operating syste
 
 ## http://readmarkable.org
 
-**\*\*Attention MacOS Users: After downloading and unzipping the application file open a Terminal window and execute the following commands:**
+**\*\*ATTENTION MacOS USERS: After downloading and unzipping the application file open a Terminal window and execute the following commands:**
 
 **cd /Users/<your_user_name>/Downloads/readmarkable-koreader-installer-macos-arm64**
 
-**chmod +x readmarkable-koreader-installer-macos-arm64.app**
-
 **chmod +x readmarkable-koreader-installer-macos-arm64**
 
-**After doing that you should be able to double-click on either of those two files and the application should launch without issue.**
+**After doing that you should be able to double-click on that file and the application should launch without issue.**
 
 ---
 
