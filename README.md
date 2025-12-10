@@ -28,7 +28,8 @@ Download the correct .zip file version for your specific machine operating syste
 
 **chmod +x readmarkable-koreader-installer-macos-arm64**
 
-**After doing that you should be able to double-click on that file and the application should launch without issue.**
+**Then launch the application in the terminal by executing:**
+**./readmarkable-koreader-installer-macos-arm64**
 
 ---
 
