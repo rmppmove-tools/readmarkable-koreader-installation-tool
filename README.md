@@ -1,4 +1,4 @@
-# READMarkable KOReader Installer v26.01.16
+# READMarkable™ KOReader Installer v26.01.16
 
 ## http://readmarkable.org
 
