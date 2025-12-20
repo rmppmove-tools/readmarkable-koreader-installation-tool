@@ -86,7 +86,7 @@ Download the correct .zip file version for your specific machine operating syste
 
 ## 8.  Activation
 
-- **Uninstall-Only Mode - Enter 'UNINSTALLER' in the activation code field for limited access the KOReader Uninstall functionality only**
+- **Uninstall-Only Mode - Enter 'UNINSTALLER' in the activation code field for limited access to the KOReader Uninstall functionality only**
 - This Application Uses An Activation Code Restricting Use To Your **Machine ID**.
 - **Activation Code License Period** is **90 days**. After license expiration or after new version releases please visit: **readmarkable.org** to generate a new license activation code. Note: Generated activation codes will only work with the current released version of the software and will NOT work with previous versions.
 
