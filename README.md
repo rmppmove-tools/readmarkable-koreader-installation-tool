@@ -37,7 +37,7 @@ Download the correct .zip file version for your specific machine operating syste
 
 ## 2. What this software application does
 
-- **Uninstall-Only Mode - Enter 'UNINSTALLER' in the activation code field for limited access the KOReader Uninstall functionality only**
+- **Uninstall-Only Mode - Enter 'UNINSTALLER' in the activation code field for limited access to the KOReader Uninstall functionality only**
 - Full KOReader install using **local zip files** (no KOReader downloads during install).
 - Installs/updates the UI Sidebar AppLoad.
 - Installs **Triple‑tap power button** shortcut to launch the UI Sidebar AppLoad.
