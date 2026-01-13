@@ -1,4 +1,4 @@
-# READMarkable™ KOReader Installer v26.01.18
+# READMarkable™ KOReader Installer v26.02.20
 
 ## http://readmarkable.org
 
@@ -64,7 +64,7 @@ Download the correct .zip file version for your specific machine operating syste
 
 - **Choose Installation Type**
    - **Full Installation**: (UI Sidebar AppLoad + KOReader) **HIGHLY RECOMMENDED**
-   - **Maintenance Mode**: Re-enables KOReader, AppLoad and Tripletap on the device after a software update has occurred
+   - **Maintenance Mode**: Re-enables KOReader, AppLoad and Tripletap on the device after a reMarkable™ software update has occurred
    
 
 
@@ -72,8 +72,8 @@ Download the correct .zip file version for your specific machine operating syste
    - **Create system backup** (**HIGHLY RECOMMENDED**)
    - **Enable Triple‑tap launcher** (**HIGHLY RECOMMENDED**)
 
-## 5. **KOReader / AppLoad / Tripletap Device Post Software-Update Maintenance Tasks**
-   - **Select this option if you have performed a device software update**
+## 5. **KOReader / AppLoad / Tripletap Device Post Software-Update Maintenance Tasks (Maintenance Mode)**
+   - **Select this option if you have performed a reMarkable™ device software update**
    - **Re-enables KOReader, AppLoad and Tripletap on the device after a software update has occurred**
 
 ## 6. **Install**
