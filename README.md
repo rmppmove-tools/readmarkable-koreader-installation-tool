@@ -1,9 +1,9 @@
-# READMarkable™ KOReader Installer v26.05.24
-# May 2026
+# READMarkable™ KOReader Installer v26.07.26
+# July 2026
 
 ## http://readmarkable.org
 
-This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro** and **reMarkable™ 2** devices using an intuitive UI over SSH.
+This desktop application installs **KOReader** and the **Triple-tap AppLoad launcher** on **reMarkable™ Paper Pure**, **reMarkable™ Paper Pro Move**, **reMarkable™ Paper Pro** and **reMarkable™ 2** devices using an intuitive UI over SSH.
 
 **Notice:** *reMarkable™ is a trademark of reMarkable AS. This software and documentation are neither endorsed nor sponsored by, nor affiliated with, reMarkable AS.*
 
@@ -11,7 +11,7 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## 1. Downloading the Software
 
-## Note: Your reMarkable™ device (RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. RM 2 devices are already in Developer Mode by default. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
+## Note: Your reMarkable™ device (RMP Pure, RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. RM 2 devices are already in Developer Mode by default. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
 
 ## IMPORTANT: THIS INSTALLER SHOULD NOT BE USED ON A DEVICE WITH OTHER COMMUNITY / 3RD-PARTY PLUGINS/LIBRARIES ALREADY INSTALLED WHICH MAY INTERFERE WITH THE INSTALLATION PROCESS.
 
@@ -21,7 +21,7 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## IMPORTANT - IF YOUR DEVICE HAS JUST GONE THROUGH A **MAJOR** reMarkable OS VERSION UPDATE (EXAMPLE: UPDATING FROM 3.26.x.x TO 3.27.x.x - NOTE THE CHANGE 3.26 TO 3.27) THEN YOU SHOULD NOT USE MAINTENANCE MODE. INSTEAD, USE THE INSTALLER TOOL TO FIRST UNINSTALL KOREADER THEN PERFORM A FULL INSTALLATION OF KOREADER. THIS ONLY APPLIES WHEN A **MAJOR** VERSION UPDATE OCCURS. FOR **MINOR** VERSION UPDATES (EXAMPLE: EXAMPLE 3.27.0.129 TO 3.27.0.132 - NOTE THE MAJOR VERSION NUMBER (3.27) REMAINS THE SAME), THEN YOU SHOULD USE MAINTENANCE MODE TO RE-ENABLE THE APPLOAD AND TRIPLETAP SERVICES ON YOUR DEVICE
 
-## VERY IMPORTANT !!! - DURING BOTH THE FULL INSTALLATION MODE (AT STEP 14) AND THE MAINTENANCE MODE (AT STEP 2) YOU WILL BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE CAREFULLY WATCH FOR A NOTIFICATION MESSAGE WINDOW AT THESE RESPECTIVE STEPS - IMPORTANT NOTE: RM 2 DEVICES TEND TO AUTOMATICALLY RESTART ON THEIR OWN AT THESE RESPECTIVE STEPS - IF YOUR RM 2 AUTOMATICALLY RESTARTS ON ITS OWN AT THESE RESPECTIVE STEPS - THEN DO NOT MANUALLY RESTART THE DEVICE, INSTEAD SIMPLY CLICK OK IN THE NOTIFICATION WINDOW. RMPP MOVE AND RMPP DEVICES TEND NOT TO AUTOMATICALLY RESTART AT THESE RESPECTIVE STEPS, THEREFORE THOSE DEVICES WILL MOST LIKELY NEED TO BE MANUALLY RESTARTED AT THOSE RESPECTIVE STEPS
+## VERY IMPORTANT !!! - DURING BOTH THE FULL INSTALLATION MODE (AT STEP 14) AND THE MAINTENANCE MODE (AT STEP 2) YOU WILL BE PROMPTED TO MANUALLY RESTART YOUR DEVICE IF IT DOES NOT AUTOMATICALLY RESTART ON ITS OWN - PLEASE CAREFULLY WATCH FOR A NOTIFICATION MESSAGE WINDOW AT THESE RESPECTIVE STEPS - IMPORTANT NOTE: RM 2 DEVICES TEND TO AUTOMATICALLY RESTART ON THEIR OWN AT THESE RESPECTIVE STEPS - IF YOUR RM 2 DEVICE AUTOMATICALLY RESTARTS ON ITS OWN AT THESE RESPECTIVE STEPS - THEN DO NOT MANUALLY RESTART THE DEVICE, INSTEAD SIMPLY CLICK OK IN THE NOTIFICATION WINDOW. RM PAPER PURE,RMPP MOVE AND RMPP DEVICES TEND NOT TO AUTOMATICALLY RESTART AT THESE RESPECTIVE STEPS, THEREFORE THOSE DEVICES WILL MOST LIKELY NEED TO BE MANUALLY RESTARTED AT THOSE RESPECTIVE STEPS
 
 Download the correct .zip file version for your specific machine operating system (Windows, macOS) from the READMarkable KOReader Installer landing page:
 
@@ -56,6 +56,7 @@ Download the correct .zip file version for your specific machine operating syste
 - **Start the application**
 
 - **Pick your device model**
+   - **reMarkable™ Paper Pure** (AARCH64, 2026)
    - **reMarkable™ Paper Pro Move** (AARCH64, 2025)
    - **reMarkable™ Paper Pro** (AARCH64, 2024)
    - **reMarkable™ 2** (ARMv7, 2020)
