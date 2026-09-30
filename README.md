@@ -13,7 +13,7 @@ This desktop application installs **KOReader** and the **Triple-tap AppLoad laun
 
 ## Note: Your reMarkable™ device (RMP Pure, RMPP Move, RMPP) will first need to be switched to Developer Mode before you can use this installation tool. RM 2 devices are already in Developer Mode by default. Please visit the following link on reMarkable™'s website for additional information about Developer Mode https://support.remarkable.com/s/article/Developer-mode
 
-## STARTING WITH VERSION 26.09.28 ACTIVATION CODES ARE **NO LONGER REQUIRED**. THE SOFTWARE WILL AUTOMATICALLY CHECK IF A NEW VERSION IS AVAILABLE FOR DOWNLOAD AND NOTIFY THE USER.
+## STARTING WITH VERSION v26.09.28 ACTIVATION CODES ARE **NO LONGER REQUIRED**. THE SOFTWARE WILL AUTOMATICALLY CHECK IF A NEW VERSION IS AVAILABLE FOR DOWNLOAD AND NOTIFY THE USER.
 
 ## IMPORTANT: THIS INSTALLER SHOULD NOT BE USED ON A DEVICE WITH OTHER COMMUNITY / 3RD-PARTY PLUGINS/LIBRARIES ALREADY INSTALLED WHICH MAY INTERFERE WITH THE INSTALLATION PROCESS.
 
