@@ -1,5 +1,5 @@
-# READMarkable™ KOReader Installer v26.09.268
-# September 2026
+# READMarkable™ KOReader Installer v26.09.28
+# September 29, 2026
 
 ## http://readmarkable.org
 
